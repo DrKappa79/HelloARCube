@@ -1,7 +1,7 @@
 HelloARCube
 ======================
 
-This is the source code for the talk "Write an Android AR app from scratch. The project is divided into four modules, each representing a step from the talk.
+This is the source code for the talk "Write an Android AR app from scratch". The project is divided into four modules, each representing a step from the talk.
 
 The final step ***HelloARCube***, is the minimal code needed to write a simple AR app allowing users to add cubes on top of horizontal planes detected by ARCore.
 
