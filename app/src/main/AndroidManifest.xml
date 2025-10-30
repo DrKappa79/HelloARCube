@@ -19,6 +19,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.HelloARCube"
+        android:appCategory="game"
         tools:targetApi="31">
         <meta-data android:name="com.google.ar.core" android:value="required" />
         <activity
